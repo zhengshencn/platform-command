@@ -1,0 +1,6 @@
+{
+  "name": "platform-command",
+  "version": "0.0.2",
+  "description": "Execute command",
+  "main": "command.js"
+}
