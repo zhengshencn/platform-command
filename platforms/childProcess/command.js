@@ -5,4 +5,4 @@ module.exports = {
         if (options) return childProcess.exec(cmd, options, callback);
         return childProcess.exec(cmd, callback);
     }
-}
+};

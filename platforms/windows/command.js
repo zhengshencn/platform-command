@@ -32,7 +32,7 @@ function windowsCmd(cmd, callback, options) {
 }
 
 module.exports = {
-    exec: function (cmd, callback) {
-        windowsCmd(cmd, callback);
+    exec: function (cmd, callback, options) {
+        windowsCmd(cmd, callback, options);
     }
 }
